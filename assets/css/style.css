@@ -81,7 +81,7 @@ main {
 }
 
 #landing-image {
-  background: url('/assets/images/marxTwo.png');
+  background: url('../images/marxTwo.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
